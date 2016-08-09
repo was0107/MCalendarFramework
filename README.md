@@ -2,6 +2,15 @@
 ##前言
 * [MCalendarFramework](https://github.com/was0107/MCalendarFramework)，实现了三种业务开发过程中常用的日历控件，可以随意组合；
 
+##效果图展示
+为更好的展示效果，请耐心等待
+<br>
+实际项目中使用效果<br>
+<img src="https://raw.githubusercontent.com/was0107/MCalendarFramework/master/images/calendar1.png" width="50%">
+<br>
+Demo效果<br>
+<img src="https://raw.githubusercontent.com/was0107/MCalendarFramework/master/images/calendar.png" width="50%">
+
 ##简介
 * 1、支持短视图的日历展示，可以查看前、后一天的日历;
 * 2、支持长视图的展示，可以查看前、后一天的日历;
@@ -66,11 +75,3 @@
 [CalendarConfig sharedInstance].selectBackgroundColor = [UIColor getColor:@"FAC814"];
 ```
 
-##效果图展示
-为更好的展示效果，请耐心等待
-<br>
-实际项目中使用效果
-<img src="https://raw.githubusercontent.com/was0107/MCalendarFramework/master/images/calendar1.png" width="50%">
-<br>
-Demo效果
-<img src="https://raw.githubusercontent.com/was0107/MCalendarFramework/master/images/calendar.png" width="50%">
